@@ -85,6 +85,14 @@ body {
   z-index: 5;
 }
 
+.sidebar-divider {
+  width: 36px;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 999px;
+  margin: 6px 0;
+}
+
 .nav-icon {
   width: 46px;
   height: 46px;
